@@ -17,3 +17,6 @@ ipython_config.py
 
 # pyenv
 .python-version
+
+# MacOS custom attributes storage
+.DS_Store
