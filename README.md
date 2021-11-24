@@ -20,7 +20,6 @@ My solutions for CS224n [Natural Language Processing with Deep Learning] Stanfor
 * [co-occurrence matrices](http://web.stanford.edu/class/cs124/lec/vectorsemantics.video.pdf)
 * [co-occurrence matrices](https://medium.com/data-science-group-iitr/word-embedding-2d05d270b285)
 * [a slow, friendly introduction to SVD](https://davetang.org/file/Singular_Value_Decomposition_Tutorial.pdf)
-* [al.pdf). 
 * If you want to learn more thoroughly about PCA or SVD, feel free to check out lectures  [7](https://web.stanford.edu/class/cs168/l/l7.pdf), [8](http://theory.stanford.edu/~tim/s15/l/l8.pdf), and [9](https://web.stanford.edu/class/cs168/l/l9.pdf) of [CS168](https://web.stanford.edu/class/cs168)
 * [Truncated SVD](https://en.wikipedia.org/wiki/Singular_value_decomposition#Truncated_SVD)
 * [Accessing Text Corpora and Lexical Resources](https://www.nltk.org/book/ch02.html)
