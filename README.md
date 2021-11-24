@@ -29,7 +29,7 @@ My solutions for CS224n [Natural Language Processing with Deep Learning] Stanfor
 * [Python NumPy tutorial](http://cs231n.github.io/python-numpy-tutorial/)
 * [sklearn.decomposition.TruncatedSVD](https://scikit-learn.org/stable/modules/generated/sklearn.decomposition.TruncatedSVD.html)
 * [matplotlib scatter plot annotate / set text at / label each point](https://web.archive.org/web/20190924160434/https://www.pythonmembers.club/2018/05/08/matplotlib-scatter-plot-annotate-set-text-at-label-each-point/)
-* [the Matplotl=ib gallery](https://matplotlib.org/gallery/index.html)
+* [the Matplotlib gallery](https://matplotlib.org/gallery/index.html)
 * [Computation on Arrays: Broadcasting by Jake VanderPlas](https://jakevdp.github.io/PythonDataScienceHandbook/02.05-computation-on-arrays-broadcasting.html)
 * [GloVe's original paper](https://nlp.stanford.edu/pubs/glove.pdf)
 * [L1 Norm](http://mathworld.wolfram.com/L1-Norm.html) 
